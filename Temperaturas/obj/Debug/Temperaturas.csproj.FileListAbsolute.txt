@@ -1,0 +1,6 @@
+D:\MARTA-23-24\ENTORNOS\UNIDAD_02\EJEMPLOS_APLICACIONES\Visual Studio\Temperaturas\bin\Debug\Temperaturas.dll
+D:\MARTA-23-24\ENTORNOS\UNIDAD_02\EJEMPLOS_APLICACIONES\Visual Studio\Temperaturas\bin\Debug\Temperaturas.pdb
+D:\MARTA-23-24\ENTORNOS\UNIDAD_02\EJEMPLOS_APLICACIONES\Visual Studio\Temperaturas\obj\Debug\Temperaturas.csproj.AssemblyReference.cache
+D:\MARTA-23-24\ENTORNOS\UNIDAD_02\EJEMPLOS_APLICACIONES\Visual Studio\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+D:\MARTA-23-24\ENTORNOS\UNIDAD_02\EJEMPLOS_APLICACIONES\Visual Studio\Temperaturas\obj\Debug\Temperaturas.dll
+D:\MARTA-23-24\ENTORNOS\UNIDAD_02\EJEMPLOS_APLICACIONES\Visual Studio\Temperaturas\obj\Debug\Temperaturas.pdb
